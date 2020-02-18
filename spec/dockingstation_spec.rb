@@ -1,4 +1,4 @@
 require 'dockingstation'
 
-decribe DockingStation do
+describe DockingStation do
 end
