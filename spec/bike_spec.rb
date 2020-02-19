@@ -1,4 +1,4 @@
-require "dockingstation"
+require "bike"
 
 describe "Bike" do
   it "responds to 'working?'" do
