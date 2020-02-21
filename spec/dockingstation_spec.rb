@@ -15,7 +15,7 @@ describe DockingStation do
 
   end
 
-  it "responds to bike method" do
+  it "docks released bike" do
     bike = Bike.new
     expect(subject.dock(bike)).to eq bike
     # expect(DockingStation.new).to respond_to(:bike)
